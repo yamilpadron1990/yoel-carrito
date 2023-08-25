@@ -1,4 +1,4 @@
-package com.yoelhcamejo.tiendaonline.tiendaonlineweb.app;
+package com.yoelhcamejo.tiendaonline.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
